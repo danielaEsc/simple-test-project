@@ -1,6 +1,7 @@
 # Simple Counter App
 This is a simple interactive Counter Application created to verify GitHub integration and basic web development workflow.
 
+
 ## Features
 - Increment counter
 - Decrement counter
